@@ -15,4 +15,4 @@ For å få en mer tverrfaglig gruppe så bør man ha med en eller flere fra IT-a
 
 Det er flere grunner til at dette burde planlegges tidlig. Tidlig planlegging fører til at man får satt sammen et sterkt og balansert team. Man oppdager tidlig om det mangler noen, og har tid til å finne riktig person til det. Man får tid til å bli kjent med kollegaene og bygge tillit tidlig i prosjektet, og det sparer tid og reduserer konflikter/problemer senere i prosjektet (Jacobsen, 2016, s. 35)
 > Written with [StackEdit](https://stackedit.io/).
-
+  
