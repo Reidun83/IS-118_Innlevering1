@@ -31,6 +31,7 @@ Tradisjonelt sett har partnerskapskontrakter mellom prosjektleder og prosjekteie
 Et annet element en partnerskapskontrakt bør inneholde er relasjonelle forhold, som er forhold som dreier seg om hvordan samarbeidet mellom prosjektleder og prosjekteier skal foregå, hvilken type informasjon som skal deles, hvordan man tar opp uforutsette hendelser og hvordan man skal håndtere konflikter (Jacobsen, 2016, s. 44). I alle prosjekter er det naturlig at det oppstår konflikter og uforutsette hendelser, men ved å ha en plan for hvordan man skal ta tak i det kan man unngå at uønskede situasjoner eskalerer.
 
 Ved utforming av en partnerskapskontrakt kan man velge enten å ha stor vekt på elementer knyttet til jerntriangelet, eller i større grad fokusere på relasjonelle forhold. Hvis man klarer å finne en balansegang mellom de to ytterpunktene, unngår man både for rigide og uoppnåelige målsetninger, men samtidig også at kontrakten blir for vag uten klare målsetninger. I tillegg ligger man litt på forskudd på konflikter man vet kommer til å dukke opp underveis i prosjektet.
+
 4.0 Proaktive mekanismer for konflikthåndtering
 I dette avsnittet skal vi komme med forslag til konkrete ordninger og prosedyrer for å identifisere, drøfte og avgjøre uenigheter tidlig i prosjektet, for å unngå eskalering.
 
