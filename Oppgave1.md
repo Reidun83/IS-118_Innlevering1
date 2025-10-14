@@ -16,7 +16,7 @@ For å få en mer tverrfaglig gruppe så bør man ha med en eller flere fra IT-a
 Det er flere grunner til at dette burde planlegges tidlig. Tidlig planlegging fører til at man får satt sammen et sterkt og balansert team. Man oppdager tidlig om det mangler noen, og har tid til å finne riktig person til det. Man får tid til å bli kjent med kollegaene og bygge tillit tidlig i prosjektet, og det sparer tid og reduserer konflikter/problemer senere i prosjektet (Jacobsen, 2016, s. 35)
 > Written with [StackEdit](https://stackedit.io/).
   
-﻿## 2.0 Det første møtet
+## 2.0 Det første møtet
 
 Det første møtet setter en standard for det videre samarbeidet, så det er viktig å få en god start. Det er fort gjort å gå raskt i gang med informasjon og planlegging, men det er viktig å tenke på at gruppen består av deltakere fra ulike sektorer som kommer inn med ulike erfaringer og forventninger. I et prosjekt jobber man sammen i en avgrenset periode og ved å skape gode relasjoner i startfasen bygger man tillit og gjør det enklere å snakke sammen om utfordringer senere, man skal derfor ikke undervurdere verdien av «pseudo-arbeid» (Jacobsen, 2016, s. 37). Derfor kan en god start på møtet være at deltakerne blir bedre kjent med hverandre, dette kan for eksempel gjøres ved å først la to og to gruppemedlemmer presentere seg selv for hverandre, etterfulgt av en runde rundt bordet der de presenterer for gruppen det de har lært om hverandre.
 
